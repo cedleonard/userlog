@@ -27,7 +27,7 @@ SECRET_KEY = 'sm$9m9j=*0)r5x6630i%$((2*tb8==p(its3+zz0%*v_ev3*%7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['threebros.pythonanywhere.com',]
 
 
 # Application definition
